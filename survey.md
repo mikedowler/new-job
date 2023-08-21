@@ -1,5 +1,5 @@
 # New company survey
-This checklist is intended to help someone joining a new company (or possibly moving to a new department/role within a company) to gather and document crucial information early on.  It is intended that the checklist is copied to interal file storage before being completed - do not store your answers in this repo!
+This checklist is intended to help someone joining a new company (or possibly moving to a new department/role within a company) to gather and document crucial information early on.  It is intended that the checklist is copied to internal file storage before being completed - do not store your answers in this repo!
 
 ## macOS
 - [ ] Are Macs enrolled in an MDM?
