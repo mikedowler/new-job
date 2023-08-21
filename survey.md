@@ -100,7 +100,7 @@ This checklist is intended to help someone joining a new company (or possibly mo
 - [ ] Are the access levels appropriate?
 - [ ] Are there consistent naming conventions for policies/groups/profiles/scripts?
 - [ ] Are configuration data being managed under version control?
-- [ ] When does the Apple MDM cert need to be renewed?
+- [ ] When does the Apple APNS cert need to be renewed?
   - [ ] Is this date recorded somewhere with appropriate notifications?
   - [ ] Are the account details recorded?
 - [ ] When does the VPP token need to be renewed?
